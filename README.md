@@ -1,2 +1,6 @@
 # Heuristic
-Sove unconstrained problems using heuristic techniques such as GA, PSO, ACO and TS
+Sove unconstrained problems using heuristic techniques such as 
+  * Genetic Algorithm (GA)
+  * Particle Swarm Algorithm (PSO)
+  * Ant-Colony Algorithm (ACO)
+  * Tabu-Search Algorithm (TS)
