@@ -2,7 +2,7 @@ from Fo import *
 import random
 import datetime
 '''
-This file is for Genatic Algorithm modules it has all functions needed for the Algorithm.
+This file is for Genetic Algorithm modules it has all functions needed for the Algorithm.
 The list of functions:
     1. initial population
     2. cross over 'main function'
